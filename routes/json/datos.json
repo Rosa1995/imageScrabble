@@ -1,0 +1,8 @@
+{
+  "nombre":"Rosa",
+  "apellido":"Sandoval",
+  "identidad":0819199500053,
+  "edad":22,
+  "direccion":"San ignacio F.M",
+  "areasInteres":["Programación","Base de datos"];
+}
